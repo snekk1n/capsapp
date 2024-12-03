@@ -1,0 +1,20 @@
+.page{
+  border: 1px solid #aaa;
+  width: 375px;
+  height: 100vh;
+  margin: 0 auto;
+  border-radius: 40px;
+  h2{
+    font-size: 28px;
+  }
+  .box{
+    width: 72px;
+    height: 72px;
+    background-color: #12121D0D;
+  }
+  .down{
+    width: 370px;
+    height: 135px;
+    border-radius: 0 0 40px 40px;
+  }
+}

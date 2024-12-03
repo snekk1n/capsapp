@@ -1,0 +1,16 @@
+.full{
+  border: 1px solid #aaa;
+  width: 375px;
+  height: 100vh;
+  margin: 0 auto;
+  border-radius: 40px;
+  input{
+    width: 275px;
+  }
+  input::placeholder{
+    color: #12121D4D;
+  }
+  .signup{
+    box-shadow: 3px 10px 20px 3px #0000001A;
+  }
+}
